@@ -1,4 +1,4 @@
-# Customer-Retention-EDA-
+# Customer-Retention-EDA
 # 📊 Customer Churn Analysis - Exploratory Data Analysis (EDA)
 ## 📌 Overview
 Customer churn is a major challenge for telecom companies, as losing customers directly affects revenue. This project focuses on **Exploratory Data Analysis (EDA)** to uncover insights about customer behavior, service preferences, and key factors influencing churn.
